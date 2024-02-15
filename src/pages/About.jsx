@@ -8,7 +8,6 @@ function About() {
     return (
         <section>
             <div id="about">
-                <h1>About</h1>
                 <p>React App mini project to gain practical experience with React, learn core React concepts, and build our first single-page application (SPA).</p>
             </div>
             <div id="aboutCards">
@@ -18,7 +17,7 @@ function About() {
                     </div>
                     <div className="profileText">
                         <h2>Gabriela Silva</h2>
-                        <p>As a UI/UX Designer, I have a couple of years experience in creating engaging and user-friendly web applications for the fleet management industry. I worked with Solution4Fleet, a leading company in the field, where I used Figma to design and prototype responsive and interactive interfaces for their clients. My core competencies include user experience research, user interface design, information architecture, and user-centered design. I also have a background in life sciences and teaching, which gives me a unique perspective and great, listening , empahtizing and solving problem skills. I am also a Web developer student where I develop in Javascript and React.</p>
+                        <p>As a UI/UX Designer, I have a couple of years experience in creating engaging and user-friendly web applications for the fleet management industry. My core competencies include user experience research, user interface design, information architecture, and user-centered design. I have a background in life sciences and teaching, which gives me a unique perspective and great, listening , empahtizing and solving problem skills. I am a fullstack Web developer student.</p>
                     </div>
                     <div>
                         <a href="https://www.linkedin.com/in/gabrielavieira-da--silva/"><img id="profileLinkedin" src={linkedin} /></a>
